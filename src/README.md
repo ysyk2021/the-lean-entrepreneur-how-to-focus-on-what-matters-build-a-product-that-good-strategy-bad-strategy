@@ -10,5 +10,4 @@ In today's fast-paced and constantly evolving business landscape, being a lean e
 
 If you're ready to take your entrepreneurial journey to the next level, "The Lean Entrepreneur: How to Focus on What Matters, Build a Product That Works" is the ultimate guide.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
