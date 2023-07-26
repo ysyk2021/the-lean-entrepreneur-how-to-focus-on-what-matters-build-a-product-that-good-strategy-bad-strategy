@@ -1,8 +1,6 @@
 # Summary
 
 - [Introduction](README.md)
-- [Good Strategy/Bad Strategy: The Difference and Why It Matters](chapter-1.md)
-- [Introduction](chapter-2.md)
   - [Explanation of the importance of entrepreneurship in today's world](chapter-2-1.md)
   - [Overview of the benefits of lean entrepreneurship](chapter-2-2.md)
   - [Brief on how the book will help readers become successful lean entrepreneurs](chapter-2-3.md)
@@ -43,3 +41,4 @@
   - [Techniques for developing a good strategy that aligns with your product vision](chapter-11-2.md)
   - [Strategies for executing your strategy effectively](chapter-11-3.md)
 - [Conclusion](conclusion.md)
+- [Contacts](contacts.md)
