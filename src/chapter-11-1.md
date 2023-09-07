@@ -1,5 +1,3 @@
-The Importance of Applying Good Strategy to Lean Entrepreneurship
-==========================================================================
 
 In this chapter, we will explore the significance of applying good strategy to lean entrepreneurship. The Lean Startup approach has gained popularity in recent years for its emphasis on rapid experimentation, customer feedback, and iterative development. While Lean Startup provides a valuable framework, it is essential to complement it with a good strategy to effectively navigate the entrepreneurial journey. In this chapter, we will discuss why good strategy matters in the context of Lean Entrepreneurship and how it can drive business success.
 

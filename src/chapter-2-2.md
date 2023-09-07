@@ -1,5 +1,3 @@
-Overview of the Benefits of Lean Entrepreneurship
-==========================================================
 
 In this chapter, we explore the numerous benefits of adopting a lean entrepreneurship approach. By understanding these advantages, readers can grasp the value that lean principles bring to their entrepreneurial journey.
 

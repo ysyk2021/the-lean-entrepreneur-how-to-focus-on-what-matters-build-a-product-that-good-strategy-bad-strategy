@@ -1,5 +1,3 @@
-Chapter 1: What is Lean Entrepreneurship?
-=========================================
 
 Understanding the Fundamentals of Lean Entrepreneurship and its Impact on Business Success
 ------------------------------------------------------------------------------------------

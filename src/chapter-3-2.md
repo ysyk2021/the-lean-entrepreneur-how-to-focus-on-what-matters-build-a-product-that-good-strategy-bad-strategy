@@ -1,5 +1,3 @@
-Techniques for Cultivating a Mindset Towards Lean Entrepreneurship
-===========================================================================
 
 In this chapter, we will explore techniques and strategies for cultivating a mindset that aligns with lean entrepreneurship. Adopting a lean mindset is crucial for entrepreneurs to navigate uncertainty, embrace innovation, and focus on what truly matters. Let's delve into some valuable techniques that can help you foster a lean entrepreneurial mindset.
 

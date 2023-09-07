@@ -1,5 +1,3 @@
-Chapter 7: Measuring Progress and Learning
-==========================================
 
 In this chapter, we will explore the importance of measuring progress and learning when building a lean startup. We will also discuss techniques for tracking key metrics and using data to make informed decisions, as well as strategies for continuously improving your product based on user feedback.
 
@@ -36,5 +34,4 @@ Conclusion
 ----------
 
 Measuring progress and learning from data is critical for success in lean entrepreneurship. By tracking key metrics, developing a system for data analysis, and using data to make informed decisions, you can minimize risk, avoid wasting time and resources, and maximize your chances of success. It is important to approach this process with an open mind, be willing to pivot or change course based on data analysis, and communicate the results effectively within your organization. By continuously improving your product based on user feedback, you can drive your entrepreneurial success through informed decision-making and customer satisfaction.
-
 

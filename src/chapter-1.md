@@ -1,5 +1,3 @@
-Good Strategy/Bad Strategy: The Difference and Why It Matters
-=============================================================
 
 In this chapter, we will explore the difference between good strategy and bad strategy and why it matters in the context of lean entrepreneurship.
 

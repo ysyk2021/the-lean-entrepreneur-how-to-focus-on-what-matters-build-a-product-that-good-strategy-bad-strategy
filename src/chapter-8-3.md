@@ -1,5 +1,3 @@
-Strategies for Building and Growing a Successful Lean Startup
-======================================================================
 
 In this chapter, we will explore strategies for using the techniques outlined in "The Lean Entrepreneur: How to Focus on What Matters, Build a Product That Works, and Grow a Sustainable Business" to build and grow a successful lean startup. These strategies will help you navigate the challenges of entrepreneurship and increase your chances of building a sustainable and thriving business.
 

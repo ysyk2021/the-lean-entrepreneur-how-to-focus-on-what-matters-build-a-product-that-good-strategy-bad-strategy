@@ -1,5 +1,3 @@
-Techniques for Understanding the Principles of the Lean Startup Methodology
-====================================================================================
 
 In this chapter, we will explore techniques for understanding the principles of the Lean Startup methodology. The Lean Startup provides a framework for developing products and launching startups through a process of iterative learning. By applying these techniques, you can embrace the core principles of the Lean Startup and increase your chances of building successful and sustainable businesses.
 

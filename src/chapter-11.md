@@ -1,5 +1,3 @@
-Chapter 9: Applying Good Strategy to Lean Entrepreneurship
-==========================================================
 
 In this chapter, we will explore the importance of applying good strategy to lean entrepreneurship. By developing and executing a solid strategy, you can align your product vision with your business goals and maximize your chances of success.
 

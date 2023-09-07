@@ -1,5 +1,3 @@
-Chapter 8: Understanding Good Strategy/Bad Strategy
-===================================================
 
 In this chapter, we will explore the fundamentals of good strategy and the pitfalls of bad strategy. We will also discuss techniques for identifying the elements of a good strategy and tips for avoiding common mistakes in strategy development.
 

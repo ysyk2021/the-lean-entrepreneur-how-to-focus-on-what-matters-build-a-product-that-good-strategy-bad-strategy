@@ -1,5 +1,3 @@
-The Basic Idea Behind the Lean Startup Methodology
-===========================================================
 
 The Lean Startup methodology is a revolutionary approach to building and growing startups. It emphasizes the importance of rapid experimentation, validated learning, and continuous improvement. This chapter explores the fundamental principles and concepts that form the basic idea behind the Lean Startup methodology.
 

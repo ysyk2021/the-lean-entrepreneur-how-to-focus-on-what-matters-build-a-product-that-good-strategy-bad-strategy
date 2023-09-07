@@ -1,5 +1,3 @@
-The Basic Idea Behind Lean Entrepreneurship and How It Can Improve Business Success
-============================================================================================
 
 In this chapter, we will delve into the fundamental concept of lean entrepreneurship and explore how it can be applied to improve business success. We will discuss the core principles and methodologies that underpin lean entrepreneurship and highlight their significance in building successful and sustainable ventures.
 

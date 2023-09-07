@@ -1,5 +1,3 @@
-Chapter 2: The Benefits of Lean Entrepreneurship
-================================================
 
 In this chapter, we will explore the benefits of lean entrepreneurship and strategies for understanding the principles of effective lean entrepreneurship. By embracing lean entrepreneurship, you can improve your chances of building a successful business that solves specific customer problems and meets their needs.
 

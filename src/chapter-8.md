@@ -1,5 +1,3 @@
-Chapter 6: The Lean Startup Methodology
-=======================================
 
 In this chapter, we will explore the lean startup methodology, the basic idea behind it, techniques for understanding its principles, and strategies for using these techniques to build and grow a successful lean startup.
 

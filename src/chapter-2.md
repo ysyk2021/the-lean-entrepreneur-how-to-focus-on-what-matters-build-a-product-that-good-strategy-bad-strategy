@@ -1,5 +1,3 @@
-Introduction
-============
 
 Entrepreneurship has become increasingly important in today's world, as more and more individuals are seeking to start their own businesses and create innovative solutions to address societal challenges. In this introduction, we will explore the significance of entrepreneurship, the benefits of lean entrepreneurship, and how this book can help readers become successful lean entrepreneurs.
 

@@ -1,5 +1,3 @@
-Brief on How the Book Will Help Readers Become Successful Lean Entrepreneurs
-=====================================================================================
 
 Welcome to "The Lean Entrepreneur: How to Focus on What Matters, Build a Product That Works, and Develop a Good Strategy". In this chapter, we provide an overview of how this book will guide and empower readers to become successful lean entrepreneurs.
 

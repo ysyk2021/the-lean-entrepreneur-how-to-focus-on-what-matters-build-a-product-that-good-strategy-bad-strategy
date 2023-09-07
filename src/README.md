@@ -1,4 +1,4 @@
-# Introduction
+
 
 Entrepreneurship is an exciting and challenging journey, full of possibilities and pitfalls. To be a successful entrepreneur, you need more than just a good idea - you need a solid plan, a clear vision, and the right tools to turn your dreams into reality. "The Lean Entrepreneur: How to Focus on What Matters, Build a Product That Works" is a book that provides practical insights and strategies for entrepreneurs looking to maximize their chances of success.
 
@@ -11,3 +11,7 @@ In today's fast-paced and constantly evolving business landscape, being a lean e
 If you're ready to take your entrepreneurial journey to the next level, "The Lean Entrepreneur: How to Focus on What Matters, Build a Product That Works" is the ultimate guide.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
